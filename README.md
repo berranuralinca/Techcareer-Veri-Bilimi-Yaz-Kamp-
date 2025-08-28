@@ -7,8 +7,8 @@
 ---
 
 ## 📌 İçindekiler
-- [1. Hafta](./Techcareer-Veri-Bilimi-Yaz-Kamp-/1.Hafta/)
-- [2. Hafta](./Techcareer-Veri-Bilimi-Yaz-Kamp-/2.Hafta/)
+- [1. Hafta](./1.Hafta/)
+- [2. Hafta](./2.Hafta/)
 
 ---
 
