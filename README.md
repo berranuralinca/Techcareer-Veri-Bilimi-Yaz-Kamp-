@@ -18,8 +18,23 @@ Techcareer Veri Bilimi Yaz Kampı boyunca ödevlendirmeler buraya yapılacaktır
 
 ## 1.Hafta
 
-Bu proje, modern bir yapıya sahip olup kullanıcıya net ve görsel destekli bilgi sunar.  
-Proje hakkında kısa bilgiler ve amaçları burada açıklayabilirsin.
+- Veri Alma ve Yazdırma
+
+- Sayıların Ortalaması
+
+- String İşlemleri
+
+- Aritmetik İşlemler
+
+- Koşullar ve Mantıksal Operatörler
+
+- İndirim Hesaplama
+
+- Mantıksal Operatör Örnekleri
+
+- Alışveriş Sepeti
+
+- Yaşa Göre Mesaj
 
 ---
 
