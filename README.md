@@ -30,7 +30,8 @@
 - Palindrom Kontrolü 
 - List Comprehension 
 - String İşlemleri 
-- Mini Proje: Film Yorumu Analizi 
+- Mini Proje: Film Yorumu Analizi
+- Canlı Kodlama ile Manav Ürün Hesaplama
 
 ---
 
