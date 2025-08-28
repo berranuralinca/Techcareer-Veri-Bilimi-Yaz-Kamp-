@@ -8,13 +8,7 @@
 
 ## 📌 İçindekiler
 
-- [2. Hafta](./2.Hafta/)
-
----
-
-### 1.Hafta Kazanımlar 
-
-- [1. Hafta](./1.Hafta/)
+- [1. Hafta Kazanımlar](./1.Hafta/)
 - Veri Alma ve Yazdırma
 - Sayıların Ortalaması
 - String İşlemleri
@@ -26,9 +20,7 @@
 - Yaşa Göre Mesaj
 
 ---
-
-## 2.Hafta Kazanımlar
-
+- [2. Hafta Kazanımlar](./2.Hafta/)
 - Sayı Analizi (Pozitif/Negatif, Tek/Çift)
 - Harf Frekansı Hesaplama 
 - Şifre Kontrolü 
