@@ -49,10 +49,3 @@
 
 ---
 
-## 💻 Kurulum
-
-1. Repo’yu klonla:
-
-```bash
-git clone https://github.com/berranuralinca/berranuralinca.git
-cd berranuralinca
