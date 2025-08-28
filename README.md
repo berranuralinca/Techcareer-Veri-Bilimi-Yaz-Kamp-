@@ -7,29 +7,22 @@
 ---
 
 ## 📌 İçindekiler
-- [1. Hafta](./1.Hafta/)
+
 - [2. Hafta](./2.Hafta/)
 
 ---
 
-## 1.Hafta Kazanımlar
+### 1.Hafta Kazanımlar 
 
+- [1. Hafta](./1.Hafta/)
 - Veri Alma ve Yazdırma
-
 - Sayıların Ortalaması
-
 - String İşlemleri
-
 - Aritmetik İşlemler
-
 - Koşullar ve Mantıksal Operatörler
-
 - İndirim Hesaplama
-
 - Mantıksal Operatör Örnekleri
-
 - Alışveriş Sepeti
-
 - Yaşa Göre Mesaj
 
 ---
