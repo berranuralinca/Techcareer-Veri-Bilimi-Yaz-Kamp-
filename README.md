@@ -2,12 +2,12 @@
 
 ![Proje Görseli](https://github.com/berranuralinca/berranuralinca/raw/main/assets/Camp.jpg)
 
-Kısa bir açıklama: Bu proje modern ve okunabilir bir yapıya sahip, kolay anlaşılır bir şekilde hazırlanmıştır.
+Techcareer Veri Bilimi Yaz Kampı boyunca ödevlendirmeler buraya yapılacaktır.
 
 ---
 
 ## 📌 İçindekiler
-- [Hakkında](#hakkında)
+- [1.Hafta](#1.Hafta)
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
@@ -16,7 +16,7 @@ Kısa bir açıklama: Bu proje modern ve okunabilir bir yapıya sahip, kolay anl
 
 ---
 
-## 📖 Hakkında
+## 1.Hafta
 
 Bu proje, modern bir yapıya sahip olup kullanıcıya net ve görsel destekli bilgi sunar.  
 Proje hakkında kısa bilgiler ve amaçları burada açıklayabilirsin.
