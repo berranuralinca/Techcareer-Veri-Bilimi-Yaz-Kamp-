@@ -1,4 +1,4 @@
-# Techcareer Veri Bilimi Yaz Kampı
+# Techcareer Veri Bilimi Yaz Kampı 🚀✨
 
 ![Proje Görseli](https://github.com/berranuralinca/berranuralinca/raw/main/assets/Camp.jpg)
 
@@ -8,7 +8,7 @@ Techcareer Veri Bilimi Yaz Kampı boyunca ödevlendirmeler buraya yapılacaktır
 
 ## 📌 İçindekiler
 - [1.Hafta](#1.Hafta)
-- [Özellikler](#özellikler)
+- [2.Hafta](#2.Hafta)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Katkıda Bulunma](#katkıda-bulunma)
@@ -16,7 +16,7 @@ Techcareer Veri Bilimi Yaz Kampı boyunca ödevlendirmeler buraya yapılacaktır
 
 ---
 
-## 1.Hafta
+## 1.Hafta Kazanımlar
 
 - Veri Alma ve Yazdırma
 
@@ -38,12 +38,18 @@ Techcareer Veri Bilimi Yaz Kampı boyunca ödevlendirmeler buraya yapılacaktır
 
 ---
 
-## ✨ Özellikler
+## 2.Hafta Kazanımlar
 
-- Kullanıcı dostu ve anlaşılır yapı
-- Resim veya görsel ile desteklenmiş açıklamalar
-- Kolay kurulum ve kullanım adımları
-- İleride kolayca güncellenebilir
+- Sayı Analizi (Pozitif/Negatif, Tek/Çift)
+- Harf Frekansı Hesaplama (String)
+- Şifre Kontrolü (String Metotları, Koşullar)
+- Liste İşlemleri (Ortalama, Filtreleme)
+- Nested Loop ile Desen Oluşturma
+- While Döngüsü ile Toplama ve Ortalama Hesaplama
+- Palindrom Kontrolü (String)
+- List Comprehension (3 ve 5’e Bölünebilme, Karelerini Alma)
+- String İşlemleri (Cümledeki Kelimelerin Baş Harfini Büyük Yapma)
+- Mini Proje: Film Yorumu Analizi (Liste, Uzunluk, “iyi” Sayısı, Ortalama)
 
 ---
 
