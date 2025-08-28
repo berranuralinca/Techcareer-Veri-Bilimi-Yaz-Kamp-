@@ -1,6 +1,6 @@
 # Techcareer Veri Bilimi Yaz Kampı
 
-![Proje Görseli](https://github.com/berranuralinca/berranuralinca/raw/main/assets/proje-resim.png)
+![Proje Görseli](https://github.com/berranuralinca/berranuralinca/raw/main/assets/Camp.jpg)
 
 Kısa bir açıklama: Bu proje modern ve okunabilir bir yapıya sahip, kolay anlaşılır bir şekilde hazırlanmıştır.
 
