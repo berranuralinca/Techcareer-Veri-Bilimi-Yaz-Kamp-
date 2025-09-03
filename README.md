@@ -47,12 +47,12 @@
 - Fonksiyonlarla metin ve sayı analizi
 
 #### 3. Gömülü (Built-in) Fonksiyonlar
-- `map()`, `filter()`, `sorted()`
-- `max()`, `min()`, `sum()` vb.
+- map(), filter(),sorted()
+- max(), min(), sum() vb.
 
 #### 4. Modüller
-- `random` modülü: rastgele sayı üretme
-- `statistics` modülü: ortalama, standart sapma
+- random modülü: rastgele sayı üretme
+- statistics modülü: ortalama, standart sapma
 
 #### 5. Temel İstatistiksel Hesaplamalar
 - Ortalama hesaplama
@@ -61,7 +61,7 @@
 
 #### 6. Liste Metotları
 - Tekrar eden elemanları silme
-- Sıralama (`sort()`)
+- Sıralama sort()
 - En yüksek ve en düşük değeri bulma
 
 #### 7. Sayılar ve Matematiksel Problemler
